@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg251project;
+package test251;
 
 /**
  *
  * @author abooo
  */
-public class Main {
+public class Test251 {
 
     /**
      * @param args the command line arguments
